@@ -71,10 +71,13 @@ node index.js
 ---
 ## Output
 - `GET http://localhost:3000/`
-![[Pasted image 20250929113125.png]]
+<img width="874" height="146" alt="Pasted image 20250929113125" src="https://github.com/user-attachments/assets/b01a13b0-20b0-46f3-8afa-81c117863252" />
+
 - `GET http://localhost:3000/hitung`
-![[Pasted image 20250929113233.png]]
+<img width="1127" height="161" alt="Pasted image 20250929113233" src="https://github.com/user-attachments/assets/45cd3cee-d30b-446f-9a64-dc08f77d876e" />
+
 - `GET http://localhost:3000/profile`
-![[Pasted image 20250929113310.png]]
+<img width="1919" height="249" alt="Pasted image 20250929113310" src="https://github.com/user-attachments/assets/77eb63bf-8438-4c06-8a5a-afa77fab8017" />
+
 - `GET http://localhost:3000/profile/F1D02310001`
-![[Pasted image 20250929113332.png]]
+<img width="1919" height="176" alt="Pasted image 20250929113332" src="https://github.com/user-attachments/assets/059de2cd-47e1-4a12-90d4-d51b8c6d53a6" />
